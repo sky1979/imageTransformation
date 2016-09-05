@@ -1,0 +1,10 @@
+c:\users\jssc\Documents\Visual Studio 2015\Projects\PhotoDemonTransform\PhotoDemonTransformTests\bin\Debug\PhotoDemonTransformTests.dll
+c:\users\jssc\Documents\Visual Studio 2015\Projects\PhotoDemonTransform\PhotoDemonTransformTests\bin\Debug\PhotoDemonTransformTests.pdb
+c:\users\jssc\Documents\Visual Studio 2015\Projects\PhotoDemonTransform\PhotoDemonTransformTests\bin\Debug\nunit.framework.dll
+c:\users\jssc\Documents\Visual Studio 2015\Projects\PhotoDemonTransform\PhotoDemonTransformTests\bin\Debug\PhotoDemonTransform.dll
+c:\users\jssc\Documents\Visual Studio 2015\Projects\PhotoDemonTransform\PhotoDemonTransformTests\bin\Debug\PhotoDemonTransform.pdb
+c:\users\jssc\Documents\Visual Studio 2015\Projects\PhotoDemonTransform\PhotoDemonTransformTests\bin\Debug\nunit.framework.xml
+c:\users\jssc\Documents\Visual Studio 2015\Projects\PhotoDemonTransform\PhotoDemonTransformTests\obj\Debug\PhotoDemonTransformTests.csprojResolveAssemblyReference.cache
+c:\users\jssc\Documents\Visual Studio 2015\Projects\PhotoDemonTransform\PhotoDemonTransformTests\obj\Debug\PhotoDemonTransformTests.dll
+c:\users\jssc\Documents\Visual Studio 2015\Projects\PhotoDemonTransform\PhotoDemonTransformTests\obj\Debug\PhotoDemonTransformTests.pdb
+c:\users\jssc\Documents\Visual Studio 2015\Projects\PhotoDemonTransform\PhotoDemonTransformTests\bin\Debug\darth.png

@@ -1,0 +1,5 @@
+c:\users\jssc\Documents\Visual Studio 2015\Projects\PhotoDemonTransform\PhotoDemonTransform\bin\Debug\PhotoDemonTransform.dll
+c:\users\jssc\Documents\Visual Studio 2015\Projects\PhotoDemonTransform\PhotoDemonTransform\bin\Debug\PhotoDemonTransform.pdb
+c:\users\jssc\Documents\Visual Studio 2015\Projects\PhotoDemonTransform\PhotoDemonTransform\obj\Debug\PhotoDemonTransform.csprojResolveAssemblyReference.cache
+c:\users\jssc\Documents\Visual Studio 2015\Projects\PhotoDemonTransform\PhotoDemonTransform\obj\Debug\PhotoDemonTransform.dll
+c:\users\jssc\Documents\Visual Studio 2015\Projects\PhotoDemonTransform\PhotoDemonTransform\obj\Debug\PhotoDemonTransform.pdb
